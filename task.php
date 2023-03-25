@@ -2,7 +2,7 @@
 phpinfo();
 ?> -->
 <!-- <?php
-     const pageName = "task";
+     const pageName = "task1";
      echo constant("pageName");
      print("<br>");
 
