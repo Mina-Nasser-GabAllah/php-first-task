@@ -35,7 +35,7 @@ switch ($age) {
   case ($age===5):
     echo "Go to Kindergarden";
     break;
-  case ($age>5 && $age<12):
+  case ($age>5 && $age<13):
     echo "Go to grade $age";
     break;
   default:
